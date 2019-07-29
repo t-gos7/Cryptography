@@ -1,2 +1,1 @@
-# Cryptography
-From my internship on Crypto
+# Visual Cryptography
